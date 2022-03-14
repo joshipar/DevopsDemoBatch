@@ -1,7 +1,9 @@
 <html>
 <head> <title> This is my first page </title> </head>
 <body>
+<center>
 <h1> Git and Git hub Demo </h1>
 <img src= "git-github.png"/>
+</center>
 </body>
 </html>
